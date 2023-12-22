@@ -1,1 +1,1 @@
-﻿
+﻿[![Build status](https://ci.appveyor.com/api/projects/status/j9ecp16xq23xgwu7?svg=true)](https://ci.appveyor.com/project/SerzhDares/goblin-game-events)

@@ -1,0 +1,35 @@
+.status {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.field {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    background-color: blanchedalmond;
+    border: 1px solid #000;
+    margin-top: 30px;
+    cursor: url('../img/molotok64.png'), auto;
+    
+}
+
+.field_block {
+    width: 25%;
+    height: 25%;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    
+}
+
+.char {
+    background-image: url('../img/goblin.png');
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;;
+}
